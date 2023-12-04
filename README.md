@@ -2,6 +2,7 @@
 
 截图网页
 
+
 【输入文件】
 ·配置文件名称：
 web.txt（放置根目录）
@@ -12,6 +13,7 @@ web.txt（放置根目录）
 https://twitter.com/TSUKUMOofficial,twitch,TSUKUMO
 
 【输出文件】
+
 shot文件夹的今天日期
 
 ·文件名：
