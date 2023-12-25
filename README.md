@@ -1,5 +1,26 @@
 # Webscreenshot
+日本語：
+サイトのスクリーンショット
 
+
+【INPUT】
+·ファイル名：
+web.txt
+
+·形式：
+（1.サイト，2.サイト名1，3.サイト名2）
+例：
+https://twitter.com/TSUKUMOofficial,twitch,TSUKUMO
+
+【output】
+
+shotファイルの下
+
+·ファイル名：
+2.サイト名1 + 3.サイト名2名 .png
+
+
+中文：
 截图网页
 
 
@@ -18,3 +39,5 @@ shot文件夹的今天日期
 
 ·文件名：
 2.网页名 + 3.用户名 .png
+
+
