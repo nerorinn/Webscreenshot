@@ -12,7 +12,7 @@ web.txt
 例：
 https://twitter.com/TSUKUMOofficial,twitch,TSUKUMO
 
-【output】
+【OUTPUT】
 
 shotファイルの下
 
