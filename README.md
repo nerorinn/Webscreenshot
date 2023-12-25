@@ -30,7 +30,7 @@ web.txt（放置根目录）
 
 ·格式：
 （1.网址，2.网页名，3.用户名）
-
+例：
 https://twitter.com/TSUKUMOofficial,twitch,TSUKUMO
 
 【输出文件】
