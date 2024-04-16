@@ -1,4 +1,3 @@
-# Webscreenshot
 ## 概要
 Selenium WebDriverを使用し、URLのスクリーンショットを保存するPythonスクリプトです。
 
