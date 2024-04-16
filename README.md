@@ -2,10 +2,10 @@
 Selenium WebDriverを使用し、URLのスクリーンショットを保存するPythonスクリプトです。
 
 ## INPUT
-| web.txt |
+| web.txt                 |
 | URL | 見出し１ | 見出し２ |
-|:---|:---:|---:|
+|:---:|:---:|:---:|
 | https://twitter.com/TSUKUMOofficial | twitter | TSUKUMO |
 
 ## OUTPUT
-twitter_TSUKUMO.png
+shot/実行日付/twitter_TSUKUMO.png
