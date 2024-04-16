@@ -4,6 +4,7 @@ Selenium WebDriverを使用し、URLのスクリーンショットを保存す�
 ## INPUT
 | web.txt                 |
 | URL | 見出し１ | 見出し２ |
+| URL | 見出し１ | 見出し２ |
 |:---:|:---:|:---:|
 | https://twitter.com/TSUKUMOofficial | twitter | TSUKUMO |
 
