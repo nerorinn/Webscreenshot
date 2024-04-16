@@ -1,20 +1,16 @@
 # Webscreenshot
-日本語：
-サイトのスクリーンショット
+## 概要
+Selenium WebDriverを使用し、URLのスクリーンショットを保存するPythonスクリプトです。
 
-
-【INPUT】
-·ファイル名：
+## INPUT
 web.txt
 
-·形式：
-| URL | 中央揃え | 右揃え |
+### 例：
+| URL | 見出し１ | 見出し２ |
 |:---|:---:|---:|
-|[1](https://twitter.com/TSUKUMOofficial) |twitter |TSUKUMO |
+| https://twitter.com/TSUKUMOofficial | twitter | TSUKUMO |
 
-【OUTPUT】
-
-shotファイルの下
-
-·ファイル名：
-2.サイト名1 + 3.サイト名2名 .png
+## OUTPUT
+shotファイル
+### 例：
+twitter_TSUKUMO.png
